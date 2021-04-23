@@ -1,5 +1,5 @@
 # SinglePageApplication
-Dynamic pages suited for desktop and mobile screen. Using Html, css, javascript.
+Dynamic pages suited for desktop and mobile screen. Using Html, css, javascript. Click on the respective screenshot to open fullpage.
 
 [1/2]
 Link for the page: https://r1beinggeeky-3p34g8177n2kkmpxh7j.codequotient.in
